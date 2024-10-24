@@ -1,0 +1,11 @@
+Time_of_Day,Road_Condition,Weather,Latitude,Longitude,Severity
+08:30,Wet,Rainy,40.7128,-74.006,2
+12:45,Dry,Clear,40.706,-74.012,3
+15:00,Dry,Clear,40.709,-74.01,1
+18:20,Snow,Snowy,40.718,-74.001,4
+22:10,Wet,Rainy,40.715,-74.005,2
+23:50,Dry,Clear,40.7121,-74.0067,1
+06:40,Wet,Foggy,40.7162,-74.0091,3
+14:15,Ice,Snowy,40.7195,-74.0045,2
+19:45,Dry,Clear,40.7145,-74.0035,1
+21:30,Dry,Clear,40.7105,-74.0085,4
